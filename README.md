@@ -6,7 +6,7 @@
 
 1. Créez-vous un compte à https://studiumfc.umontreal.ca/login/index.php en cliquant sur *Créer un compte*.
 2. Validez le courriel qui vous est envoyé.
-3. Envoyez un courriel à [pascal.martinolli@umontreal.ca avec pour objet : BONICI](mailto:pascal.martinolli@umontreal.ca?subject=BONICI). Attendez mon courriel de confirmation dans les 24h ouvrables.
+3. Envoyez un courriel à [pascal.martinolli@umontreal.ca](mailto:pascal.martinolli@umontreal.ca?subject=BONICI) avec pour objet : BONICI. Attendez mon courriel de confirmation dans les 24h ouvrables.
 4. Accédez au cours à https://studiumfc.umontreal.ca/course/view.php?id=61456 
 
 ## BoniCI, c'est quoi ?
