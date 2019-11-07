@@ -1,13 +1,14 @@
-# BoniCI : MOOC pour bonifier ses compétences informationnelles
+# BoniCI : un MOOC pour bonifier ses compétences informationnelles
 
 « BONICI - Bonifier ses compétences informationnelles » est un cours en ligne ouvert à tous conçu par Pascal Martinolli et propulsé en ligne par Marilou Bourque, bibliothécaires à l'Université de Montréal.
 
-## Pour accéder au MOOC BoniCI
+## Pour un accès complet à BoniCI
 
 1. Créez-vous un compte à https://studiumfc.umontreal.ca/login/index.php en cliquant sur *Créer un compte*.
 2. Validez le courriel qui vous est envoyé.
-3. Envoyez un courriel à [pascal.martinolli@umontreal.ca](mailto:pascal.martinolli@umontreal.ca?subject=BONICI) avec pour objet : BONICI. Attendez mon courriel de confirmation dans les 24h ouvrables.
-4. Accédez au cours à https://studiumfc.umontreal.ca/course/view.php?id=61456 
+3. Envoyez un courriel à [pascal.martinolli@umontreal.ca](mailto:pascal.martinolli@umontreal.ca?subject=BONICI) avec pour objet : BONICI. 
+4. Attendez mon courriel de confirmation dans les 24h ouvrables.
+5. Accédez enfin au cours complet à https://studiumfc.umontreal.ca/course/view.php?id=61456 (sinon vous avez un accès sans les quiz)
 
 ## BoniCI, c'est quoi ?
 
@@ -24,11 +25,13 @@
   * Se tenir à jour : alertes et veille
   * Expertises avancées : initiation à la bibliométrie et à la revue de littérature
   
-## BoniCi, c'est comment ?
+## BoniCI, c'est comment ?
 
 * Une démarche scénarisée,
-* basées sur des questionnaires formatifs (25 quiz), de pratique et d'évaluation, regroupant + de 600 questions.
-* avec des rétroactions nombreuses et riches (+ de 120 mini-capsules vidéo)
+* basées sur des questionnaires formatifs (25 quiz)
+* et sur des questionnaires de pratique (9) et d'évaluation (9),
+* regroupant + de 600 questions,
+* avec des rétroactions nombreuses et riches (+ de 120 mini-capsules vidéo).
 
 ## BoniCI, c'est vous aussi
 
