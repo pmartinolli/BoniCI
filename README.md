@@ -4,7 +4,7 @@
 
 ## Pour un accès complet à BoniCI
 
-1. Créez-vous un compte à https://studiumfc.umontreal.ca/login/index.php en cliquant sur *Créer un compte*.
+1. Créez-vous un compte à https://studiumfc.umontreal.ca/login/index.php en cliquant en bas sur *Créer un compte / Create New Account*.
 2. Validez le courriel qui vous est envoyé.
 3. Envoyez un courriel à [pascal.martinolli@umontreal.ca](mailto:pascal.martinolli@umontreal.ca?subject=BONICI) avec pour objet : BONICI. 
 4. Attendez mon courriel de confirmation dans les 24h ouvrables.
