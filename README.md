@@ -2,6 +2,8 @@
 
 « BONICI - Bonifier ses compétences informationnelles » est un cours en ligne ouvert à tous conçu par Pascal Martinolli et propulsé en ligne par Marilou Bourque, bibliothécaires à l'Université de Montréal.
 
+(English below)
+
 ## Pour un accès complet à BoniCI
 
 1. Créez-vous un compte à https://studiumfc.umontreal.ca/login/index.php en cliquant en bas sur *Créer un compte / Create New Account*.
