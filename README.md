@@ -42,6 +42,30 @@
    * Fin 2020 : ce cours sera diffusé en ligne sur la plateforme Edx/EduLib.
    * À une date future non déterminée, le code source de ce cours sera offert en libre accès dans un dépôt de ressources éducatives libres non déterminé.
 
+# Metadata / Métadonnées 
+
+Author / Auteur : Pascal Martinolli
+
+Created / Créé le : 2016
+
+Most recent version / Dernière version : 2019
+
+Original format / format de fichier : Moodle 
+
+License / Licence : CC-BY
+
+Used by / Utilisé par : PLU6058, FAS1901, SOL1018, ANT1065, MSL6800.
+
+Promoted through / Diffusé via : [colloque BES-CPI 2018](http://hdl.handle.net/1866/21087),  [McGill ACRL Reflection 2018](http://hdl.handle.net/1866/22333), [Project CORA](https://www.projectcora.org/assignment/mooc-bonici).
+
+Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
+
+# In English
+
+**TL;DR**: A MOOC in French to bonify the information literacy skills of university students (with Moodle). 600+ questions, into 40+ quiz, with a lot of feedback (textual and 115+ mini-video).
+
+**Learning Outcomes**: Students will know how to identify references in a bibliogaphy, how to define their research subjects (synonyms & thesaurus), how to combine their keywords, which service to use (catalog, database, Google,...), how to assess the credibility of their sources, how to cite and respect copyrights, how to produce a bibliography with Zotero, how to adopt good practices for publishing (publishing process, open access, predators), how to set up alerts on topics, and what are bibliometry and literature review.
+
 \
 \
 https://github.com/pmartinolli/BoniCI 
