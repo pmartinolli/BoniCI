@@ -56,7 +56,7 @@ License / Licence : CC-BY
 
 Used by / Utilisé par : PLU6058, FAS1901, SOL1018, ANT1065, MSL6800.
 
-Promoted through / Diffusé via : [colloque BES-CPI 2018](http://hdl.handle.net/1866/21087),  [McGill ACRL Reflection 2018](http://hdl.handle.net/1866/22333), [Project CORA](https://www.projectcora.org/assignment/mooc-bonici).
+Promoted through / Diffusé via : [colloque BES-CPI 2018](http://hdl.handle.net/1866/21087),  [McGill ACRL Reflection 2018](http://hdl.handle.net/1866/22333), [ACRL sandbox](http://sandbox.acrl.org/library-collection/mooc-bonici), [Project CORA](https://www.projectcora.org/assignment/mooc-bonici).
 
 Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
