@@ -5,10 +5,9 @@
 ## Pour un accès complet à BoniCI
 
 1. Créez-vous un compte à https://studiumfc.umontreal.ca/login/index.php en cliquant en bas sur *Créer un compte / Create New Account*.
-2. Validez le courriel qui vous est envoyé.
-3. Envoyez un courriel à [pascal.martinolli@umontreal.ca](mailto:pascal.martinolli@umontreal.ca?subject=BONICI) avec pour objet : BONICI. 
-4. Attendez mon courriel de confirmation dans les 24h ouvrables.
-5. Accédez enfin au cours complet à https://studiumfc.umontreal.ca/course/view.php?id=61456 (sinon vous avez un accès sans les quiz)
+2. Validez le courriel qui vous est envoyé (NB : il arrive souvent dans le spam de votre boîte courriel).
+3. Accédez au cours à https://studiumfc.umontreal.ca/course/view.php?id=61456 
+4. Dans le cours, inscrivez-vous en cliquant en haut à droite sur Administration du cours > M'inscrire dans ce cours > M'inscrire (sinon vous n'aurez pas accès aux quiz).
 
 ## BoniCI, c'est quoi ?
 
