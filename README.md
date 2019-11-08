@@ -66,7 +66,7 @@ Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umon
 
 **TL;DR**: A MOOC in French to bonify the information literacy skills of university students (with Moodle). 600+ questions, into 40+ quiz, with a lot of feedback (textual and 115+ mini-video).
 
-**Learning Outcomes**: Students will know how to identify references in a bibliogaphy, how to define their research subjects (synonyms & thesaurus), how to combine their keywords, which service to use (catalog, database, Google,...), how to assess the credibility of their sources, how to cite and respect copyrights, how to produce a bibliography with Zotero, how to adopt good practices for publishing (publishing process, open access, predators), how to set up alerts on topics, and what are bibliometry and literature review.
+**Learning Outcomes**: Students will know how to identify references in a bibliography, how to define their research subjects (synonyms & thesaurus), how to combine their keywords, which service to use (catalog, database, Google,...), how to assess the credibility of their sources, how to cite and respect copyrights, how to produce a bibliography with Zotero, how to adopt good practices for publishing (publishing process, open access, predators), how to set up alerts on topics, and what are bibliometry and literature review.
 
 \
 \
