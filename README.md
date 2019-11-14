@@ -14,19 +14,6 @@
 ## BoniCI, c'est quoi ?
 
 * Un cours en ligne ouvert à tous pour mettre à jour ses compétences informationnelles de base pour l'université.
-  * **Principe pédagogique principal** : des rétroactions à haute fréquence et diversifiées.
-  * **Autres principes** : 
-     * engagement immédiat,
-     * liberté de parcours,
-     * modularité des contenus,
-     * scénarisé vers une complexité croissante,
-     * ciblé sur les besoins des étudiants universitaires SHS,
-     * asynchrone,
-     * auto-portant. 
-  * Quelques chiffres : 
-    * 115+ microcapsules video (de moins d'1 min.), 
-    * 656+ questions dans 43 quiz de formation, de pratique ou d'examen, 
-    * 2.000+ rétroactions spécifiques.
 * 10 Modules : 
   * Identifier une référence bibliographique
   * Définir son sujet (synonymes et thésaurus)
@@ -42,11 +29,11 @@
   
 ## BoniCI, c'est comment ?
 
-* Une démarche scénarisée,
-* basées sur des questionnaires formatifs (25 quiz)
-* et sur des questionnaires de pratique (9) et d'évaluation (9),
-* regroupant + de 600 questions,
-* avec des rétroactions nombreuses et riches (+ de 120 mini-capsules vidéo).
+* Un parcours libre, modulaire, asynchrone, auto-portante, et scénarisée ;
+* basées sur des questionnaires formatifs (25 quiz), de pratique (9) et d'évaluation (9) ;
+* regroupant plus de 600 questions ;
+* avec des rétroactions nombreuses, riches et diversifiées (plus de 120 micro-capsules vidéo, plus de 2000 étroactions spécifiques) ;
+* ciblé sur les besoins des étudiants universitaires SHS (et autres).
 
 ## BoniCI, c'est vous aussi
 
