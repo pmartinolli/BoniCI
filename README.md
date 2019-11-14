@@ -38,6 +38,7 @@
   * Publier : processus, libre accès et dangers
   * Se tenir à jour : alertes et veille
   * Expertises avancées : initiation à la bibliométrie et à la revue de littérature
+  * Bientôt : de nouveaux modules avancés (à suivre)
   
 ## BoniCI, c'est comment ?
 
