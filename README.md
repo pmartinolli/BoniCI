@@ -1,6 +1,6 @@
 # BoniCI : un MOOC pour bonifier ses compétences informationnelles
 
-« BONICI - Bonifier ses compétences informationnelles » est un cours en ligne ouvert à tous conçu par Pascal Martinolli et propulsé en ligne par Marilou Bourque, bibliothécaires à l'Université de Montréal.
+« BONICI : Bonifier ses compétences informationnelles » est un cours en ligne ouvert à tous conçu par Pascal Martinolli et propulsé en ligne par Marilou Bourque, bibliothécaires à l'Université de Montréal.
 
 (English below)
 
