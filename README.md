@@ -32,7 +32,7 @@
 * Un parcours libre, modulaire, asynchrone, auto-portante, et scénarisée ;
 * basées sur des questionnaires formatifs (25 quiz), de pratique (9) et d'évaluation (9) ;
 * regroupant plus de 600 questions ;
-* avec des rétroactions nombreuses, riches et diversifiées (plus de 120 micro-capsules vidéo, plus de 2000 étroactions spécifiques) ;
+* avec des rétroactions nombreuses, riches et diversifiées (plus de 130 micro-capsules vidéo, plus de 2000 rétroactions spécifiques) ;
 * ciblé sur les besoins des étudiants universitaires SHS (et autres).
 
 ## BoniCI, c'est vous aussi
