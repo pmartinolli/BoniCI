@@ -38,7 +38,7 @@
 ## BoniCI, c'est vous aussi
 
 * **Le contenu est CC-BY**.
-* **Merci** de nous signaler vos souhaits d'amélioration ou de correction à pascal.martinolli@umontreal.ca. Cet outil a grandement bénéficié des rétroactions de plusieurs centaines d'utilisateurs depuis 2016. Remerciements : Marilou Bourque, Paul Gendreau, Pascale Bellemare, Catherine Fortier, Nadia Côté, Émilie Dalpé, Grégoire Aribaut, Caroline Gadoury, André Laflamme, les étudiant.es du PLU6058, du FAS1901, du SOL1018, du ANT1065, du SCI6315, du SCI6051 et du MSL6800.
+* **Merci** de nous signaler vos souhaits d'amélioration ou de correction à pascal.martinolli@umontreal.ca. Cet outil a grandement bénéficié des rétroactions de plusieurs centaines d'utilisateurs depuis 2016. Remerciements : Marilou Bourque, Paul Gendreau, Pascale Bellemare, Catherine Fortier, Nadia Côté, Émilie Dalpé, Grégoire Aribaut, Caroline Gadoury, Vanessa Nantel, André Laflamme, les étudiant.es du PLU6058, du FAS1901, du SOL1018, du ANT1065, du SCI6315, du SCI6051 et du MSL6800.
 * **Partagez** ce cours libre et ouvert à tous avec ce lien : https://github.com/pmartinolli/BoniCI 
 * **Et ensuite...**
    * Des modules avancés pour les cycles supérieurs sont en cours de conception.
