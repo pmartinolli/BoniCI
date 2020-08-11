@@ -62,7 +62,7 @@ Original format / format de fichier : Moodle, Markdown et EdX
 
 License / Licence : CC-BY
 
-Used by / Utilisé par : PLU6058, FAS1901, SOL1018, ANT1065, MSL6800.
+Used by / Utilisé par : PLU6058, FAS1901, SOL1018, ANT1065, MSL6800, PPA1114.
 
 Promoted through / Diffusé via : [colloque BES-CPI 2018](http://hdl.handle.net/1866/21087),  [McGill ACRL Reflection 2018](http://hdl.handle.net/1866/22333), [ACRL sandbox](http://sandbox.acrl.org/library-collection/mooc-bonici), [Project CORA](https://www.projectcora.org/assignment/mooc-bonici).
 
