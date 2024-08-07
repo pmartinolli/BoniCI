@@ -6,7 +6,8 @@
 
 ## Pour un accès complet à BoniCI
 
-* Inscrivez-vous à https://catalogue.edulib.org/fr/cours/BIB-BONICI/
+* Inscrivez-vous à <s>https://catalogue.edulib.org/fr/cours/BIB-BONICI/</s> (projet débranché en 2024)
+* Se connecter à Moodle (voir plus bas).
 
 ## BoniCI, c'est quoi ?
 
